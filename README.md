@@ -48,3 +48,12 @@ The `ViewModel` class is designed to store and manage UI-related data in a lifec
 
 The Data Binding Library is a support library that allows you to bind UI components in your layouts to data sources in your app using a declarative format rather than programmatically.
 
+&nbsp;&nbsp;
+<p align="center">
+    <img src="home.png" width="33%" height="33%" alt="app_main_screen">
+    <img src="games.png" width="33%" height="33%" alt="games_detail_screen">
+    <img src="games_detail.png" width="33%" height="33%" alt="games_screen">
+    <img src="error.png" width="33%" height="33%" alt="app_error_screen">
+    <img src="dark.png" width="33%" height="33%" alt="app_main_screen_dark">
+</p>
+
