@@ -1,3 +1,9 @@
+&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+    <img src="triforce.png" width="25%" height="25%" alt="triforce_image">
+</p>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 # ZeldaReference
 
 ### *For the sake of brevity, only the Games and Bosses endpoint are implemented in the project.*
