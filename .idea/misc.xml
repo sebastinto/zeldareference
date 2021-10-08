@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/drawable/error_bubble.xml" value="0.403125" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/drawable/loading_img.xml" value="0.403125" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/appearance_item.xml" value="0.5" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/appearances_item.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/boss_item.xml" value="0.33" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/bottom_sheet_games.xml" value="0.67" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/content_main.xml" value="0.21875" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/dungeons_item.xml" value="0.23796296296296296" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/empty_view.xml" value="0.33" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/fragment_bosses.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/fragment_bosses_detail.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/fragment_characters.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/fragment_dungeons.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/fragment_first.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/fragment_games.xml" value="0.25" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/fragment_games_detail.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/fragment_home.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/fragment_items.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/fragment_monsters.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/fragment_places.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/fragment_second.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/fragment_staff.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/game_item.xml" value="0.5" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/games_item.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/sebas/AndroidStudioProjects/ZeldaTest/app/src/main/res/layout/loading_view.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

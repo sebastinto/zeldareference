@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <data>
+        <variable
+            name="data"
+            type="com.tobianoapps.zeldareference.api.models.Games.Data" />
+        <variable
+            name="callback"
+            type="com.tobianoapps.zeldareference.games.GamesAdapter.ItemClick" />
+
+        <variable
+            name="color"
+            type="com.tobianoapps.zeldareference.api.models.ZeldaColor" />
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_rectangle"
+        android:padding="@dimen/recycler_item_padding"
+        android:layout_marginTop="@dimen/recycler_item_margin_top"
+        android:layout_marginEnd="@dimen/recycler_item_margin_horizontal"
+        android:layout_marginStart="@dimen/recycler_item_margin_horizontal"
+        tools:backgroundTint="@color/purple_200"
+        android:backgroundTint="@{color.Companion.randomColor}"
+        android:onClick="@{() -> callback.onClick(data)}">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/name"
+            style="@style/TextAppearance.AppCompat.Body2"
+            android:textColor="@color/white"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/recycler_item_text_margin_horizontal"
+            android:layout_marginTop="@dimen/recycler_item_text_margin_vertical"
+            android:layout_marginEnd="@dimen/recycler_item_text_margin_horizontal"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="@{data.name}"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="The Legend of Zelda: a Very Long Name that Feels Like It Needs, For Some Reason, To Not Go Straight To The Point, And inStead Explain Everything ABout the Story." />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/released_date"
+            style="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/white"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/recycler_item_text_margin_vertical"
+            android:layout_marginBottom="@dimen/recycler_item_text_margin_vertical"
+            android:text="@{data.releasedDate.trim()}"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/name"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/name"
+            app:layout_constraintTop_toBottomOf="@+id/name"
+            tools:text="February 21, 1986" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

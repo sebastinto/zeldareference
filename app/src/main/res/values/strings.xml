@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Zelda Reference</string>
+    <string name="action_settings">Settings</string>
+    <string name="settings_clicked">Settings clicked!</string>
+
+    <!-- API RESPONSE ERROR MESSAGES -->
+    <string name="error_code_message_with_args">Error: %1$d • %2$s</string>
+    <string name="error_code_message_with_arg">Error: %1$s</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="error_message_empty_response_body">Response body was empty</string>
+
+    <!-- FRAGMENTS -->
+    <string name="games">Games</string>
+    <string name="staff">Staff</string>
+    <string name="places">Places</string>
+    <string name="monsters">Monsters</string>
+    <string name="dungeons">Dungeons</string>
+    <string name="items">Items</string>
+    <string name="characters">Characters</string>
+    <string name="bosses">Bosses</string>
+
+    <!-- SORT -->
+    <string name="sort_by_date">sort by date</string>
+    <string name="sort_by_name">sort by name</string>
+
+    <string name="appearance_with_args">(Appeared in %1$s)</string>
+    <string name="retry">retry</string>
+
+
+</resources>

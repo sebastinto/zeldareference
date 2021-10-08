@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Navigation transition when "pop" navigating TO a fragment (typically from back button press) -->
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:interpolator/decelerate_quint"
+    android:fillAfter="true">
+<scale
+    android:duration="@android:integer/config_longAnimTime"
+    android:fromXScale="1.4"
+    android:fromYScale="1.4"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:toXScale="1.0"
+    android:toYScale="1.0" />
+
+    <alpha
+        android:duration="@integer/transition_700"
+        android:fromAlpha="0"
+        android:toAlpha="1" />
+</set>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorToolbar">#272727</color>
+    <color name="surface">#222222</color>
+    <color name="grey">#494949</color>
+    <color name="semiTransparent">#1AFFFFFF</color>
+</resources>

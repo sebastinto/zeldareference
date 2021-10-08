@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="home_button_spacing_vertical">8dp</dimen>
+    <dimen name="home_logo_padding">16dp</dimen>
+    <dimen name="button_padding">16dp</dimen>
+    <dimen name="recycler_item_text_margin_vertical">8dp</dimen>
+    <dimen name="recycler_item_padding">8dp</dimen>
+    <dimen name="recycler_item_margin_top">18dp</dimen>
+    <dimen name="recycler_item_margin_horizontal">24dp</dimen>
+    <dimen name="recycler_item_text_margin_horizontal">16dp</dimen>
+</resources>
