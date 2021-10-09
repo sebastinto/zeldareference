@@ -6,12 +6,12 @@
 
 # ZeldaReference
 
-### *For the sake of brevity, only the Games and Bosses endpoint are implemented in the project.*
-
 Barebones sample project demonstrating use of [Retrofit](https://square.github.io/retrofit/), [OkHttp](https://square.github.io/okhttp/), [Hilt](https://dagger.dev/hilt/), [Kotlin Coroutines](https://developer.android.com/kotlin/coroutines), as well as a 
 few [Android Jetpack Libraries](https://developer.android.com/jetpack) like [Navigation Components](https://developer.android.com/guide/navigation), [View Model](https://developer.android.com/topic/libraries/architecture/viewmodel), 
 [Live Data](https://developer.android.com/topic/libraries/architecture/livedata), [View Binding](https://developer.android.com/topic/libraries/view-binding), [Data Binding](https://developer.android.com/topic/libraries/data-binding), 
-all through a single-activity, MVVM architecture.  
+all through a single-activity, MVVM architecture.
+
+*For the sake of brevity, only the Games and Bosses endpoint are implemented in the project.*
   
 ## [Retrofit](https://square.github.io/retrofit/) 
   
