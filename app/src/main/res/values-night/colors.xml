@@ -3,5 +3,5 @@
     <color name="colorToolbar">#272727</color>
     <color name="surface">#222222</color>
     <color name="grey">#494949</color>
-    <color name="semiTransparent">#1AFFFFFF</color>
+    <color name="bubble_color">#3A3A3A</color>
 </resources>

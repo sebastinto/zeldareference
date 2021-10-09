@@ -23,5 +23,5 @@
     <color name="surface">#FFFFFF</color>
     <color name="colorToolbar">#FFFFFF</color>
 
-    <color name="semiTransparent">#1A000000</color>
+    <color name="bubble_color">#F8F8F8</color>
 </resources>
