@@ -21,11 +21,11 @@ A type-safe HTTP client for Android and Java.
   
 ## [OkHttp](https://square.github.io/okhttp/)
   
-HTTP is the way modern applications network. It’s how we exchange data & media.
+`OkHttp` is an efficient HTTP & HTTP/2 client for Android and Java applications
   
 ## [Hilt](https://dagger.dev/hilt/)
   
-Hilt provides a standard way to incorporate Dagger dependency injection into an Android application.
+`Hilt` provides a standard way to incorporate Dagger dependency injection into an Android application.
 
 ## [Kotlin Coroutines](https://developer.android.com/kotlin/coroutines)
 
@@ -48,15 +48,15 @@ The `ViewModel` class is designed to store and manage UI-related data in a lifec
 
 ## [Data Binding](https://developer.android.com/topic/libraries/data-binding)
 
-The Data Binding Library is a support library that allows you to bind UI components in your layouts to data sources in your app using a declarative format rather than programmatically.
+The `DataBinding` Library is a support library that allows you to bind UI components in your layouts to data sources in your app using a declarative format rather than programmatically.
 
 ## [Espresso](https://developer.android.com/training/testing/espresso)
 
-Use Espresso to write concise, beautiful, and reliable Android UI tests.
+Use `Espresso` to write concise, beautiful, and reliable Android UI tests.
 
 ## [Truth](https://truth.dev/)
 
-Truth makes your test assertions and failure messages more readable.
+`Truth` makes your test assertions and failure messages more readable.
 
 &nbsp;&nbsp;
 <p align="center">
