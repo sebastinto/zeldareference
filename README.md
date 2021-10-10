@@ -11,6 +11,8 @@ few [Android Jetpack Libraries](https://developer.android.com/jetpack) like [Nav
 [Live Data](https://developer.android.com/topic/libraries/architecture/livedata), [View Binding](https://developer.android.com/topic/libraries/view-binding), [Data Binding](https://developer.android.com/topic/libraries/data-binding), 
 all through a single-activity, MVVM architecture.
 
+Samples tests using [Espresso](https://developer.android.com/training/testing/espresso), [Truth](https://truth.dev/), [Navigation](https://developer.android.com/guide/navigation/navigation-testing), and [Hilt](https://developer.android.com/training/dependency-injection/hilt-testing) can also be found in this project.
+
 *For the sake of brevity, only the Games and Bosses endpoint are implemented in the project.*
   
 ## [Retrofit](https://square.github.io/retrofit/) 
@@ -47,6 +49,14 @@ The `ViewModel` class is designed to store and manage UI-related data in a lifec
 ## [Data Binding](https://developer.android.com/topic/libraries/data-binding)
 
 The Data Binding Library is a support library that allows you to bind UI components in your layouts to data sources in your app using a declarative format rather than programmatically.
+
+## [Espresso](https://developer.android.com/training/testing/espresso)
+
+Use Espresso to write concise, beautiful, and reliable Android UI tests.
+
+## [Truth](https://truth.dev/)
+
+Truth makes your test assertions and failure messages more readable.
 
 &nbsp;&nbsp;
 <p align="center">
